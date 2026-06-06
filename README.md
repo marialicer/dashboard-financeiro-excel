@@ -12,19 +12,19 @@ Automação de planilha financeira para gestão e análise de lucratividade de u
 
 ### Aba Lançamento
 
-![Aba Lançamentos](<img\aba_lancamentos.png>)
+![Aba Lançamentos](<img/aba_lancamentos.pngaba_lancamentos.png>)
 
 ### Aba DRE Mensal
 
-![Aba DRE Mensal](img\aba_dre_mensal.png)
+![Aba DRE Mensal](img/aba_dre_mensal.png)
 
 ### Aba Indicadores KPI
 
-![Aba Indicadores KPI](<img\aba_indicadores_KPI.png>)
+![Aba Indicadores KPI](<img/aba_indicadores_KPI.png>)
 
 ### Aba Dashboard
 
-![Aba Dashboard](<img\aba_dashboard.png>)
+![Aba Dashboard](<img/aba_dashboard.png>)
 
 ---
 
