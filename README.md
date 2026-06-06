@@ -12,7 +12,7 @@ Automação de planilha financeira para gestão e análise de lucratividade de u
 
 ### Aba Lançamento
 
-![Aba Lançamentos](<img/aba_lancamentos.pngaba_lancamentos.png>)
+![Aba Lançamentos](<img/aba_lancamentos.png>)
 
 ### Aba DRE Mensal
 
