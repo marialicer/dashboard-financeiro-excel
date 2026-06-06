@@ -16,7 +16,7 @@ Automação de planilha financeira para gestão e análise de lucratividade de u
 
 ### Aba DRE Mensal
 
-![Aba DRE Mensal](<img\aba_dre_mensal.png>)
+![Aba DRE Mensal](img\aba_dre_mensal.png)
 
 ### Aba Indicadores KPI
 
